@@ -1,6 +1,6 @@
 // тестовый модуль
 void Print(string name){
-	Console.WriteLine("Hello, " + name);
+	Console.WriteLine("Hello, World" + name);
 };
 
 
