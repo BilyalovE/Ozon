@@ -5,5 +5,9 @@ void Print(string name){
 
 
 void Print(string firstName, string lastName){
-	
+	Console.WriteLine("Hello, " + name);
+};
+
+void newSecondPrint(){
+	Console.WriteLine("I AM NEW")
 };
